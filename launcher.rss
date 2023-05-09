@@ -1,0 +1,18 @@
+<rss version="2.0">
+  <channel>
+    <title>LAUNCHER-RSS</title>
+    <description>Launcher Rss File</description>
+    <copyright>Copyright 2023. Newbi rights all reserved.</copyright>
+    <lastBuildDate>Thu, 24 Feb 2022 19:20:50 +0900</lastBuildDate>
+    <pubDate>Thu, 24 Feb 2022 19:20:50 +0900</pubDate>
+    <generator>Newbi</generator>	
+    <item>
+      <title>1</title>
+      <pubDate>Thu, 24 Feb 2022 19:20:50 +0900</pubDate>
+      <dc:creator>Newbi</dc:creator>
+      <content:encoded>
+      </content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>
