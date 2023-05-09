@@ -38,7 +38,7 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 11799,
+                "size": 11813,
                 "MD5": "fdf65dd024faa5c9a51372e5fb975dfe",
                 "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/options/1.12.2-forge-14.23.5.2860.json"
               }
@@ -256,16 +256,6 @@
           ]
         },
         {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
-          "name": "Armourer's Workshop",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2678747,
-            "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/mods/Armourers-Workshop-1.12.2-0.51.0.jar",
-            "MD5": "12954551f39bed840b32fd8be8fddb54"
-          }
-        },
-        {
           "id": "jds.bibliocraft:bibliocraft:2.4.6@jar",
           "name": "BiblioCraft",
           "type": "ForgeMod",
@@ -406,6 +396,17 @@
           }
         },
         {
+          "id": "Armourers-Workshop-1.12.2-0.51.0.jar",
+          "name": "Armourers-Workshop-1.12.2-0.51.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2678747,
+            "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/mods/Armourers-Workshop-1.12.2-0.51.0.jar",
+            "MD5": "12954551f39bed840b32fd8be8fddb54",
+            "path": "mods/Armourers-Workshop-1.12.2-0.51.0.jar"
+          }
+        },
+        {
           "id": "cocricot_1.12.2_v1.11.0.zip",
           "name": "cocricot_1.12.2_v1.11.0.zip",
           "type": "File",
@@ -432,7 +433,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2490,
+            "size": 2376,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/options/options.txt",
             "MD5": "06aedfcaa0901cfc700e189b5f72cb0d",
             "path": "options.txt"
@@ -443,7 +444,7 @@
           "name": "optionsof.txt",
           "type": "File",
           "artifact": {
-            "size": 1434,
+            "size": 1362,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/options/optionsof.txt",
             "MD5": "986bf008820a6235c5928319090630c4",
             "path": "optionsof.txt"
@@ -454,7 +455,7 @@
           "name": "optionsshaders.txt",
           "type": "File",
           "artifact": {
-            "size": 395,
+            "size": 376,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/options/optionsshaders.txt",
             "MD5": "6dc664997db8f0dba4757f388565f946",
             "path": "optionsshaders.txt"
@@ -476,7 +477,7 @@
           "name": "smoothfont.cfg",
           "type": "File",
           "artifact": {
-            "size": 11186,
+            "size": 10895,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/config/smoothfont/smoothfont.cfg",
             "MD5": "d487326d3da866f3fad17a67edfbc5ff",
             "path": "config/smoothfont/smoothfont.cfg"
