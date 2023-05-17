@@ -357,7 +357,7 @@
         },
         {
           "id": "bre.smoothfont:smoothfont:mc1.12.2-2.1.4@jar",
-          "name": "Smooth Font",
+          "name": "SmoothFont",
           "type": "ForgeMod",
           "artifact": {
             "size": 283749,
@@ -387,14 +387,14 @@
           }
         },
         {
-          "id": "ComplementaryShaders_v4.7.1.zip",
-          "name": "ComplementaryShaders_v4.7.1.zip",
+          "id": "ComplementaryShader_v4.7.1.zip",
+          "name": "ComplementaryShader_v4.7.1.zip",
           "type": "File",
           "artifact": {
             "size": 3456096,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/shaderpacks/ComplementaryShader_v4.7.1.zip",
             "MD5": "8715784436e158bd0fc5321cca73eb92",
-            "path": "shaderpacks/ComplementaryShaders_v4.7.1.zip"
+            "path": "shaderpacks/ComplementaryShader_v4.7.1.zip"
           }
         },
         {
@@ -402,7 +402,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2468,
+            "size": 2354,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/options/options.txt",
             "path": "options.txt"
           }
@@ -412,7 +412,7 @@
           "name": "optionsof.txt",
           "type": "File",
           "artifact": {
-            "size": 1434,
+            "size": 1362,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/options/optionsof.txt",
             "path": "optionsof.txt"
           }
@@ -422,7 +422,7 @@
           "name": "optionsshaders.txt",
           "type": "File",
           "artifact": {
-            "size": 394,
+            "size": 375,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/options/optionsshaders.txt",
             "path": "optionsshaders.txt"
           }
