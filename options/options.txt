@@ -14,8 +14,8 @@ fboEnable:true
 difficulty:2
 fancyGraphics:false
 ao:2
-renderClouds:fast
-resourcePacks:["cocricot_1.12.2_v1.11.0.zip"]
+renderClouds:false
+resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr
@@ -95,7 +95,7 @@ key_key.pickup.item:0
 key_smoothfont.key.guiOpen:199
 key_keys.armourers_workshop.undo:44:CONTROL
 key_keys.armourers_workshop.open-wardrobe:25
-soundCategory_master:1.0
+soundCategory_master:0.5066225
 soundCategory_music:0.0
 soundCategory_record:0.08450704
 soundCategory_weather:0.0
