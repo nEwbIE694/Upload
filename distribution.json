@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "rss": "https://raw.githubusercontent.com/nEwbIE694/Upload/mc-file/launcher.rss",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "손님이 찾아왔다",
       "description": "제작: Team.OneTimeMeeting",
       "icon": "https://raw.githubusercontent.com/nEwbIE694/Upload/mc-file/icon.png",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "address": "newbi694.mcv.kr:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
@@ -266,16 +266,6 @@
           }
         },
         {
-          "id": "com.kixiko:cocricotmod:1.11.0@jar",
-          "name": "CocricotMOD",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2945950,
-            "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/mods/cocricotMOD_1.12.2_v1.11.0.jar",
-            "MD5": "1517f8e2bd7ab68207e7dc524d5bb24c"
-          }
-        },
-        {
           "id": "com.creativemd:creativecore:1.10@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
@@ -313,16 +303,6 @@
             "size": 52615,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/mods/ItemPhysic_1.4.37_mc1.12.2.jar",
             "MD5": "5c2a1cae64145a9a959701129c3d5098"
-          }
-        },
-        {
-          "id": "org.dimdev:jeid:1.0.3-55@jar",
-          "name": "JustEnoughIDs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 982320,
-            "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/mods/JustEnoughIDs-1.0.3-55.jar",
-            "MD5": "ac6f54cb5478dd3d0147aedbfe782d5d"
           }
         },
         {
@@ -407,23 +387,12 @@
           }
         },
         {
-          "id": "cocricot_1.12.2_v1.11.0.zip",
-          "name": "cocricot_1.12.2_v1.11.0.zip",
-          "type": "File",
-          "artifact": {
-            "size": 42172148,
-            "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/resourcepacks/cocricot_1.12.2_v1.11.0.zip",
-            "MD5": "418afd51739723d5233e9ccf7c33a131",
-            "path": "resourcepacks/cocricot_1.12.2_v1.11.0.zip"
-          }
-        },
-        {
           "id": "ComplementaryShaders_v4.7.1.zip",
           "name": "ComplementaryShaders_v4.7.1.zip",
           "type": "File",
           "artifact": {
             "size": 3456096,
-            "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/shaderpacks/ComplementaryShaders_v4.7.1.zip",
+            "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/shaderpacks/ComplementaryShader_v4.7.1.zip",
             "MD5": "8715784436e158bd0fc5321cca73eb92",
             "path": "shaderpacks/ComplementaryShaders_v4.7.1.zip"
           }
@@ -433,9 +402,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2376,
+            "size": 2468,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/options/options.txt",
-            "MD5": "06aedfcaa0901cfc700e189b5f72cb0d",
             "path": "options.txt"
           }
         },
@@ -444,9 +412,8 @@
           "name": "optionsof.txt",
           "type": "File",
           "artifact": {
-            "size": 1362,
+            "size": 1434,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/options/optionsof.txt",
-            "MD5": "986bf008820a6235c5928319090630c4",
             "path": "optionsof.txt"
           }
         },
@@ -455,9 +422,8 @@
           "name": "optionsshaders.txt",
           "type": "File",
           "artifact": {
-            "size": 376,
+            "size": 394,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/options/optionsshaders.txt",
-            "MD5": "6dc664997db8f0dba4757f388565f946",
             "path": "optionsshaders.txt"
           }
         },
@@ -468,7 +434,6 @@
           "artifact": {
             "size": 73,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/options/servers.dat",
-            "MD5": "aed450b42350030482443bf94a4d3e34",
             "path": "servers.dat"
           }
         },
@@ -479,7 +444,6 @@
           "artifact": {
             "size": 10895,
             "url": "https://github.com/nEwbIE694/Upload/raw/mc-file/config/smoothfont/smoothfont.cfg",
-            "MD5": "d487326d3da866f3fad17a67edfbc5ff",
             "path": "config/smoothfont/smoothfont.cfg"
           }
         }
